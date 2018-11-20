@@ -1,1 +1,3 @@
-print('COMMIT!!')
+print('COMMIT!!というかpublish??')
+
+print('PUSH!!')
